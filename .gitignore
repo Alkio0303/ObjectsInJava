@@ -23,6 +23,8 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+.idea
+ObjectsInJava.iml
 
 ### VS Code ###
 .vscode/
