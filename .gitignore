@@ -2,8 +2,12 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+<<<<<<< HEAD
 .idea
 ObjectsInJava.iml
+=======
+
+>>>>>>> da78e22f6050bbceebfd59b75d041de64b80f18a
 
 ### Eclipse ###
 .apt_generated
@@ -16,8 +20,7 @@ ObjectsInJava.iml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-.idea
-ObjectsInJava.iml
+
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,15 +28,15 @@ ObjectsInJava.iml
 /dist/
 /nbdist/
 /.nb-gradle/
-.idea
-ObjectsInJava.iml
+
 
 ### VS Code ###
 .vscode/
-.idea
-ObjectsInJava.iml
+
 
 ### Mac OS ###
 .DS_Store
-.idea
-ObjectsInJava.iml
+
+
+### Mac OS ###
+
