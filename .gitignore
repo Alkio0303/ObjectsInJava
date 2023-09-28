@@ -2,12 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-<<<<<<< HEAD
 .idea
 ObjectsInJava.iml
-=======
 
->>>>>>> da78e22f6050bbceebfd59b75d041de64b80f18a
 
 ### Eclipse ###
 .apt_generated
