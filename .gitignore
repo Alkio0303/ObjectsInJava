@@ -1,0 +1,39 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea
+ObjectsInJava.iml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+.idea
+ObjectsInJava.iml
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+.idea
+ObjectsInJava.iml
+
+### VS Code ###
+.vscode/
+.idea
+ObjectsInJava.iml
+
+### Mac OS ###
+.DS_Store
+.idea
+ObjectsInJava.iml
