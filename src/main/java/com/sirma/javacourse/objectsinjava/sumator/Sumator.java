@@ -20,7 +20,6 @@ public class Sumator {
 
     /**
      * Calculates the sum of doubles
-     *
      * @param firstNum, first double to be summed
      * @param secondNum, second double to be summed
      */
